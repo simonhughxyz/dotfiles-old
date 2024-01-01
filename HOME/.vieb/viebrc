@@ -8,6 +8,8 @@
 " colorscheme in ~/.vieb/colors/custom.css
 colorscheme custom
 
+set windowmaximize=true
+
 " only use homerow keys for follow mode
 set followchars=custom:jkl;fdsagh
 " don't do anything with other keys when in follow mode
